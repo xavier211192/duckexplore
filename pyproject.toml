@@ -1,0 +1,10 @@
+[project]
+name = "duckexplore"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "duckdb>=1.2.1",
+    "polars>=1.26.0",
+]
